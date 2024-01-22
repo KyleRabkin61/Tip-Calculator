@@ -13,7 +13,6 @@ function calculateTip(quality) {
         return bill * .1
     }
     else {
-        // return 'Please choose a fucking answer!'
     }
 } 
 
